@@ -20,4 +20,5 @@
 - [Разработка и стилизиране на Web страници](https://github.com/mihail-petrov-courses-private/html_css)
 
 ### 🚀 Автоматизирано тестване
-- [Автоматизирано тестане](https://github.com/mihail-petrov-courses-private/automation-qa)
+- [Автоматизирано тестане с JavaScript и Selenium](https://github.com/mihail-petrov-courses-private/automation-qa)
+- [Автоматизирано тестане с JavaScript и Cypress](https://github.com/mihail-petrov-courses-private/siemens-automation-qa)
