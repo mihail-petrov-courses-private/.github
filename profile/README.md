@@ -12,13 +12,13 @@
 
 ### 🚀 Езици за програмиране
 - [Въведение в програмирането с Python](https://github.com/mihail-petrov-courses-private/python)
-- [Разработка на приложения с Java](https://github.com/mihail-petrov-courses-private/webdev-java)
-- [Разработка на приложения с PHP](https://github.com/mihail-petrov-courses-private/webdev-php)
-- [Разработка на приложения с JavaScript](https://github.com/mihail-petrov-courses-private/webdev-js)
+- [Разработка на приложения с Java](https://github.com/mihail-petrov-courses-private/java)
+- [Разработка на приложения с PHP](https://github.com/mihail-petrov-courses-private/php)
+- [Разработка на приложения с JavaScript](https://github.com/mihail-petrov-courses-private/js)
 
 ### 🚀 Работа с технологии
 - [Разработка и стилизиране на Web страници](https://github.com/mihail-petrov-courses-private/html_css)
 
 ### 🚀 Автоматизирано тестване
 - [Автоматизирано тестане с JavaScript и Selenium](https://github.com/mihail-petrov-courses-private/automation-qa)
-- [Автоматизирано тестане с JavaScript и Cypress](https://github.com/mihail-petrov-courses-private/siemens-automation-qa)
+- [Автоматизирано тестане с JavaScript и Cypress](https://github.com/mihail-petrov-courses-private/automation-qa-siemens)
