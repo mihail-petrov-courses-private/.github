@@ -25,4 +25,4 @@
 - [Автоматизирано тестане с JavaScript и Cypress](https://github.com/mihail-petrov-courses-private/automation-qa-siemens)
 
 ### 🚀 Стажантски програми и индивидуални обучения
-- [Обучение по Snowflake](https://github.com/mihail-petrov-courses-private/snowflake)
+- [Обучение по Snowflake](https://github.com/mihail-petrov-courses-private/ip-snowflake)
