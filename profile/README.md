@@ -18,6 +18,7 @@
 
 ### 🚀 Работа с технологии
 - [Разработка и стилизиране на Web страници](https://github.com/mihail-petrov-courses-private/html_css)
+- [Бази данни и SQL](https://github.com/mihail-petrov-courses-private/sql)
 
 ### 🚀 Автоматизирано тестване
 - [Автоматизирано тестане с JavaScript и Selenium](https://github.com/mihail-petrov-courses-private/automation-qa)
